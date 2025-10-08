@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vamshi%20Amudala&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecting%20Tomorrow's%20Solutions%20Today&descAlignY=55&descSize=18"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Backend+Architect+%7C+Cloud+Engineer;Microservices+Specialist+%7C+DevOps+Craftsman;Building+Distributed+Systems+at+Scale;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Backend+Engineer+%7C+Microservices+Developer;Spring+Boot+%7C+Kubernetes+%7C+Docker;Building+Scalable+Distributed+Systems;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
 </h3>
 
 <p align="center">
