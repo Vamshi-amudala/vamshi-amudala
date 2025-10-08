@@ -53,8 +53,7 @@ public class VamshiAmudala implements BackendEngineer, CloudArchitect {
             "Design Pattern", "Microservices + Event-Driven",
             "Database Strategy", "PostgreSQL + Redis Caching",
             "API Style", "RESTful + GraphQL Hybrid",
-            "Deployment", "Docker + Kubernetes + CI/CD",
-            "Monitoring", "Prometheus + Grafana + ELK Stack"
+            "Deployment", "Docker + Kubernetes + CI/CD"
         );
     }
     
@@ -115,7 +114,7 @@ public class VamshiAmudala implements BackendEngineer, CloudArchitect {
 
 ```javascript
 const frontend = {
-  frameworks: ['React', 'Next.js'],
+  frameworks: ['React'],
   styling: ['TailwindCSS', 'Styled Components'],
   stateManagement: ['Redux', 'Context API'],
   buildTools: ['Vite', 'Webpack']
@@ -134,9 +133,8 @@ const frontend = {
 ```java
 Map<String, List<String>> backend = Map.of(
   "languages", List.of("Java", "Node.js"),
-  "frameworks", List.of("Spring Boot", "Express", "NestJS"),
-  "messaging", List.of("Kafka", "RabbitMQ"),
-  "caching", List.of("Redis", "Memcached")
+  "frameworks", List.of("Spring Boot", "Express"),
+  "caching", List.of("Redis")
 );
 ```
 
@@ -172,9 +170,7 @@ ORDER BY proficiency_level DESC;
 devops:
   containerization: [Docker, Podman]
   orchestration: [Kubernetes, Docker Swarm]
-  ci_cd: [Jenkins, GitLab CI, GitHub Actions]
-  monitoring: [Prometheus, Grafana, ELK]
-  cloud: [AWS, Azure, GCP]
+  ci_cd: [GitLab CI]
 ```
 
 </td>
@@ -207,17 +203,10 @@ graph LR
     A[React SPA] -->|JWT Auth| B[Spring Boot API]
     B --> C[PostgreSQL]
     B --> D[Redis Cache]
-    B --> E[S3 Storage]
+   <!-- B --> E[S3 Storage] -->
     F[Docker] --> G[Kubernetes]
     G --> B
 ```
-
-**🏗️ Architecture Highlights:**
-- 🔐 **Security**: JWT-based authentication, Spring Security, BCrypt password hashing, CORS & rate limiting
-- ⚡ **Performance**: Redis caching layer, database query optimization, lazy loading, connection pooling
-- 📊 **Scalability**: RESTful API design, microservices-ready architecture, horizontal scaling support
-- 🎨 **Frontend**: React with Tailwind CSS, responsive design, infinite scroll, real-time updates
-- 🗄️ **Database**: PostgreSQL with optimized indexing, connection pooling, transaction management
 
 **📦 Tech Stack:** `Spring Boot 3.x` `Spring Security` `JWT` `React 18` `Tailwind CSS` `PostgreSQL` `Redis` `Docker` `AWS S3`
 
@@ -245,7 +234,6 @@ graph TB
         B[Flight Service]
         C[Booking Service]
         D[User Service]
-        E[Payment Service]
         F[Notification Service]
     end
     subgraph "Data Layer"
@@ -255,14 +243,12 @@ graph TB
     subgraph "Infrastructure"
         I[Docker]
         J[Kubernetes]
-        K[Prometheus]
     end
     
     A --> B & C & D & E & F
     B & C & D & E --> G
     B & C & D --> H
     I --> J
-    J --> K
 ```
 
 **🎯 Microservices Architecture:**
@@ -274,7 +260,7 @@ graph TB
 - 📊 **Monitoring**: Prometheus + Grafana for metrics, ELK stack for centralized logging
 - 🚀 **CI/CD**: Jenkins pipeline with automated testing, building, and deployment
 
-**📦 Tech Stack:** `Node.js` `Express.js` `Sequelize ORM` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `Kong Gateway` `Prometheus` `Grafana`
+**📦 Tech Stack:** `Node.js` `Express.js` `Sequelize ORM` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Api Gateway`
 
 <div align="center">
 
@@ -290,16 +276,7 @@ graph TB
 
 </div>
 
-**⚡ Key Features:**
-- 📅 Real-time booking system with availability calendar
-- 💳 Integrated payment gateway (Stripe/Razorpay)
-- 🖼️ Image upload & management with Cloudinary
-- 🔍 Advanced search & filtering (location, price, rating)
-- ⭐ Review & rating system with real-time updates
-- 📧 Email notifications for bookings & reminders
-- 📱 Fully responsive design for all devices
-
-**📦 Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Cloudinary` `Stripe API`
+**📦 Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` 
 
 <div align="center">
 
