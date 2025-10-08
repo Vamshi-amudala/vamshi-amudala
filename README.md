@@ -250,15 +250,6 @@ graph TB
     I --> J
 ```
 
-**🎯 Microservices Architecture:**
-- 🌐 **API Gateway**: Kong gateway for routing, authentication, rate limiting & load balancing
-- 🔄 **Service Discovery**: Automatic service registration and health checks
-- 📨 **Event-Driven**: Kafka/RabbitMQ for inter-service communication
-- 🗄️ **Database per Service**: Independent PostgreSQL instances for each microservice
-- 🔐 **Security**: OAuth 2.0, service-to-service authentication, encrypted communication
-- 📊 **Monitoring**: Prometheus + Grafana for metrics, ELK stack for centralized logging
-- 🚀 **CI/CD**: Jenkins pipeline with automated testing, building, and deployment
-
 **📦 Tech Stack:** `Node.js` `Express.js` `Sequelize ORM` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Api Gateway`
 
 <div align="center">
