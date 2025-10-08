@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Backend+Engineer+%F0%9F%92%BB;Microservices+Architect+%E2%98%81%EF%B8%8F;Spring+Boot+%7C+React+%7C+DevOps+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/vamshi-amudala-b9296a229/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
