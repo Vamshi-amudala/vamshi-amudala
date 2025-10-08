@@ -135,11 +135,6 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 
 **Tech Stack:** `Spring Boot` `Spring Security` `JWT` `React` `Tailwind CSS` `PostgreSQL` `Docker`
 
-🔐 JWT Authentication with refresh tokens  
-👥 Role-based access control (Employers & Job Seekers)  
-📊 25% faster API response times through optimization  
-🎨 Modern, responsive UI with smooth animations  
-🐳 Containerized deployment for scalability
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://career-forge-portal.netlify.app/)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Vamshi-amudala/careerForge)
@@ -153,11 +148,6 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 
 **Tech Stack:** `Node.js` `Express.js` `Sequelize` `PostgreSQL` `Docker` `Kubernetes`
 
-🔧 Modular services: Flight Search, Booking, Payment, Notification  
-☸️ Kubernetes orchestration with auto-scaling  
-🔄 API Gateway pattern for centralized routing  
-💾 Distributed transaction management  
-🛡️ Service isolation with circuit breakers
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Vamshi-amudala/airline-management-ms-k8s)
 
@@ -170,11 +160,6 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
 
-📅 Real-time booking with live availability calendar  
-⭐ Rating and review system for photographers  
-🔔 Email notification system for bookings  
-👨‍💼 Admin approval workflow management  
-📱 Mobile-first responsive design
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://click-connect-new.vercel.app/)
 
