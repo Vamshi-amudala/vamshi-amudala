@@ -29,7 +29,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
 
-```typescript
+typescript
 interface Developer {
   name: string;
   location: string;
@@ -50,19 +50,19 @@ const vamshi: Developer = {
   },
   currentMission: [
     "🎯 Building scalable microservices",
-    "☁️ Exploring cloud architectures", 
+    "☁ Exploring Devops", 
     "📚 Mastering system design patterns"
   ],
   expertise: [
     "Backend Development",
     "REST API Design",
-    "Database Optimization",
+    "Fullstack Development",
     "Microservices Architecture"
   ]
 };
 
 console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
-```
+
 
 <br clear="right"/>
 
@@ -104,17 +104,17 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,js" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sequelize" />
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠 DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,maven,linux,bash" />
 </p>
@@ -144,28 +144,28 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 ### 🎯 Project Overview
 A production-ready full-stack job portal featuring enterprise-grade security, role-based access control, and optimized performance for seamless user experience.
 
-### 🛠️ Tech Stack
-```yaml
+### 🛠 Tech Stack
+yaml
 Backend:     Spring Boot | Spring Security | Spring Data JPA | JWT
 Frontend:    React | Tailwind CSS | React Router | Axios
 Database:    PostgreSQL
 DevOps:      Docker | Render | Netlify
-```
 
+<!--
 ### ⚡ Key Features
-- 🔐 **JWT Authentication** - Secure token-based auth with refresh tokens
-- 👥 **Role-Based Access** - Separate dashboards for Employers & Job Seekers
-- 📊 **Performance Optimized** - 25% faster API response times
-- 🎨 **Modern UI/UX** - Responsive design with smooth animations
-- 🐳 **Containerized** - Docker deployment for scalability
-- 📱 **Mobile Responsive** - Optimized for all device sizes
+- 🔐 *JWT Authentication* - Secure token-based auth with refresh tokens
+- 👥 *Role-Based Access* - Separate dashboards for Employers & Job Seekers
+- 📊 *Performance Optimized* - 25% faster API response times
+- 🎨 *Modern UI/UX* - Responsive design with smooth animations
+- 🐳 *Containerized* - Docker deployment for scalability
+- 📱 *Mobile Responsive* - Optimized for all device sizes
 
 ### 📈 Technical Achievements
 - Designed 10+ RESTful endpoints with proper error handling
 - Implemented database indexing for faster query performance
 - Used Redis caching for frequently accessed data
 - Applied SOLID principles for maintainable code
-
+-->
 </div>
 
 <div align="center">
@@ -180,7 +180,7 @@ DevOps:      Docker | Render | Netlify
 <br>
 
 <details>
-<summary><h3>✈️ Airline Management System - Microservices</h3></summary>
+<summary><h3>✈ Airline Management System - Microservices</h3></summary>
 
 <br>
 
@@ -191,28 +191,28 @@ DevOps:      Docker | Render | Netlify
 ### 🎯 Project Overview
 Distributed microservices system for airline management with Kubernetes orchestration, demonstrating cloud-native architecture and DevOps best practices.
 
-### 🛠️ Tech Stack
-```yaml
+### 🛠 Tech Stack
+yaml
 Backend:        Node.js | Express.js | Sequelize ORM
 Database:       PostgreSQL
 Architecture:   Microservices | API Gateway Pattern
 DevOps:         Docker | Kubernetes | Service Discovery
-```
 
+<!--
 ### ⚡ Key Features
-- 🔧 **Modular Services** - Flight Search, Booking, Payment, Notification
-- ☸️ **Kubernetes Ready** - Auto-scaling and load balancing
-- 🔄 **API Gateway** - Centralized routing and authentication
-- 💾 **Data Consistency** - Distributed transaction management
-- 🛡️ **Fault Tolerance** - Service isolation and circuit breakers
-- 📊 **Service Discovery** - Dynamic service registration
+- 🔧 *Modular Services* - Flight Search, Booking, Payment, Notification
+- ☸ *Kubernetes Ready* - Auto-scaling and load balancing
+- 🔄 *API Gateway* - Centralized routing and authentication
+- 💾 *Data Consistency* - Distributed transaction management
+- 🛡 *Fault Tolerance* - Service isolation and circuit breakers
+- 📊 *Service Discovery* - Dynamic service registration
 
 ### 📈 Architecture Highlights
 - Implemented event-driven communication between services
 - Used message queues for async operations
 - Applied database-per-service pattern
 - Configured health checks and monitoring
-
+-->
 </div>
 
 <div align="center">
@@ -237,28 +237,28 @@ DevOps:         Docker | Kubernetes | Service Discovery
 ### 🎯 Project Overview
 MERN stack booking platform connecting photographers with clients, featuring real-time availability, ratings, and admin workflows. Built during a 24-hour hackathon challenge.
 
-### 🛠️ Tech Stack
-```yaml
+### 🛠 Tech Stack
+yaml
 Frontend:    React | Tailwind CSS | React Router
 Backend:     Node.js | Express.js | JWT
 Database:    MongoDB | Mongoose
 Deployment:  Vercel
-```
 
+<!--
 ### ⚡ Key Features
-- 📅 **Real-Time Booking** - Live availability calendar
-- ⭐ **Rating System** - Reviews and photographer ratings
-- 🔔 **Notifications** - Email alerts for bookings
-- 👨‍💼 **Admin Panel** - Approval workflow management
-- 📱 **Responsive Design** - Mobile-first approach
-- 🎨 **Modern UI** - Smooth animations and transitions
+- 📅 *Real-Time Booking* - Live availability calendar
+- ⭐ *Rating System* - Reviews and photographer ratings
+- 🔔 *Notifications* - Email alerts for bookings
+- 👨‍💼 *Admin Panel* - Approval workflow management
+- 📱 *Responsive Design* - Mobile-first approach
+- 🎨 *Modern UI* - Smooth animations and transitions
 
 ### 📈 Development Journey
 - Completed MVP in 24 hours during hackathon
 - Implemented full CRUD operations
 - Integrated image upload functionality
 - Deployed with CI/CD pipeline
-
+-->
 </div>
 
 <div align="center">
@@ -299,7 +299,7 @@ Deployment:  Vercel
 
 ### 🔭 Building
 - 🎯 Microservices with Spring Boot
-- ☁️ Cloud-native applications
+- ☁ Cloud-native applications
 - 🔄 CI/CD pipelines
 - 📊 Scalable REST APIs
 
@@ -308,7 +308,7 @@ Deployment:  Vercel
 
 ### 🌱 Learning
 - 🎓 Advanced System Design
-- ☸️ Kubernetes & Helm
+- ☸ Kubernetes & Helm
 - 🌐 AWS/Azure Cloud
 - 🔐 OAuth & Security
 
@@ -329,7 +329,7 @@ Deployment:  Vercel
 ### 💬 Expertise In
 - ☕ Java & Spring Boot
 - 🔌 REST API design
-- 🗄️ Database optimization
+- 🗄 Database optimization
 - 🐳 Docker & Kubernetes
 
 </td>
@@ -346,9 +346,9 @@ Deployment:  Vercel
 
 | 🏆 Achievement | 🏢 Organization | 📅 Completion |
 |:--------------|:---------------|:-------------|
-| **Java Full Stack Development** | Capgemini's EduBridge Digital Academy | June 2025 |
-| **Spring Boot & Microservices** | Self-Study & Projects | 2024-2025 |
-| **Docker & Kubernetes** | Hands-on Implementation | 2024 |
+| *Java Full Stack Development* | Capgemini's EduBridge Digital Academy | June 2025 |
+| *Spring Boot & Microservices* | Self-Study & Projects | 2024-2025 |
+| *Docker & Kubernetes* | Hands-on Implementation | 2024 |
 
 </div>
 
@@ -364,7 +364,7 @@ Deployment:  Vercel
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vamshi-amudala-b9296a229/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vamshiamudala126@gmail.com">
@@ -390,7 +390,7 @@ Deployment:  Vercel
 
 ### ⭐ Show Some Love
 
-**If you find my work interesting, drop a star on my repositories!**
+*If you find my work interesting, drop a star on my repositories!*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
