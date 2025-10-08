@@ -109,7 +109,7 @@ public class VamshiAmudala implements BackendEngineer, CloudArchitect {
 ### 🎨 **Frontend Ecosystem**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,typescript,html,css,bootstrap&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,javascript,typescript,html,css,bootstrap&perline=4" />
 </p>
 
 ```javascript
@@ -127,7 +127,7 @@ const frontend = {
 ### ⚙️ **Backend Powerhouse**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,graphql,kafka,redis&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&perline=4" />
 </p>
 
 ```java
@@ -146,7 +146,7 @@ Map<String, List<String>> backend = Map.of(
 ### 🗄️ **Data Layer**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,elasticsearch,prisma&perline=3" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&perline=3" />
 </p>
 
 ```sql
@@ -163,12 +163,12 @@ ORDER BY proficiency_level DESC;
 ### ☁️ **Cloud & DevOps**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,gitlab,prometheus,grafana&perline=4" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab&perline=4" />
 </p>
 
 ```yaml
 devops:
-  containerization: [Docker, Podman]
+  containerization: [Docker]
   orchestration: [Kubernetes, Docker Swarm]
   ci_cd: [GitLab CI]
 ```
@@ -180,7 +180,7 @@ devops:
 ### 🔧 **Development Tools & Practices**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,maven,gradle,linux,bash,vim,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,maven,linux,bash,vscode&perline=10" />
 </p>
 
 </div>
@@ -203,12 +203,11 @@ graph LR
     A[React SPA] -->|JWT Auth| B[Spring Boot API]
     B --> C[PostgreSQL]
     B --> D[Redis Cache]
-   <!-- B --> E[S3 Storage] -->
     F[Docker] --> G[Kubernetes]
     G --> B
 ```
 
-**📦 Tech Stack:** `Spring Boot 3.x` `Spring Security` `JWT` `React 18` `Tailwind CSS` `PostgreSQL` `Redis` `Docker` `AWS S3`
+**📦 Tech Stack:** `Spring Boot 3.x` `Spring Security` `JWT` `React 18` `Tailwind CSS` `PostgreSQL` `Redis` `Docker` 
 
 <div align="center">
 
