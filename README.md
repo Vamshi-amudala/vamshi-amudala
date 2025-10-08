@@ -2,24 +2,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamshi%20Amudala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&lines=Backend+Engineer+💻;Microservices+Architect+☁️;Spring+Boot+|+React+|+DevOps+🚀;Building+Scalable+Solutions+🌟" alt="Typing SVG" />
+### 💻 Backend Engineer | ☁️ Microservices Architect | 🚀 DevOps Enthusiast
 
-<br><br>
+**`Spring Boot • React • Kubernetes • Building Scalable Solutions`**
 
-<a href="https://www.linkedin.com/in/vamshi-amudala-b9296a229/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:vamshiamudala126@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-</a>
-<a href="https://github.com/Vamshi-amudala">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF7139" alt="Portfolio"/>
-</a>
+<br>
 
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-amudala-b9296a229/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshiamudala126@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshi-amudala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -29,7 +23,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
 
-typescript
+```typescript
 interface Developer {
   name: string;
   location: string;
@@ -50,19 +44,19 @@ const vamshi: Developer = {
   },
   currentMission: [
     "🎯 Building scalable microservices",
-    "☁ Exploring Devops", 
+    "☁️ Exploring DevOps ecosystem", 
     "📚 Mastering system design patterns"
   ],
   expertise: [
     "Backend Development",
     "REST API Design",
-    "Fullstack Development",
+    "Full-Stack Development",
     "Microservices Architecture"
   ]
 };
 
 console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
-
+```
 
 <br clear="right"/>
 
@@ -100,29 +94,33 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 <div align="center">
 
 ### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,js" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
+### ⚙️ Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sequelize" />
-</p>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-### 🛠 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,maven,linux,bash" />
-</p>
-
-### 🔧 IDEs & Editors
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
-</p>
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -130,146 +128,55 @@ console.log("💡 Code. Deploy. Optimize. Repeat. 🚀");
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/> Featured Projects
 
-<div align="center">
+### 💼 CareerForge - Enterprise Job Portal
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" align="right">
 
-<details open>
-<summary><h3>💼 CareerForge - Enterprise Job Portal</h3></summary>
+**A production-ready full-stack job portal with enterprise-grade security and optimized performance**
 
-<br>
+**Tech Stack:** `Spring Boot` `Spring Security` `JWT` `React` `Tailwind CSS` `PostgreSQL` `Docker`
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150">
+🔐 JWT Authentication with refresh tokens  
+👥 Role-based access control (Employers & Job Seekers)  
+📊 25% faster API response times through optimization  
+🎨 Modern, responsive UI with smooth animations  
+🐳 Containerized deployment for scalability
 
-<div align="left">
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://career-forge-portal.netlify.app/)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Vamshi-amudala/careerForge)
 
-### 🎯 Project Overview
-A production-ready full-stack job portal featuring enterprise-grade security, role-based access control, and optimized performance for seamless user experience.
+---
 
-### 🛠 Tech Stack
-yaml
-Backend:     Spring Boot | Spring Security | Spring Data JPA | JWT
-Frontend:    React | Tailwind CSS | React Router | Axios
-Database:    PostgreSQL
-DevOps:      Docker | Render | Netlify
+### ✈️ Airline Management System - Microservices
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100" align="right">
 
-<!--
-### ⚡ Key Features
-- 🔐 *JWT Authentication* - Secure token-based auth with refresh tokens
-- 👥 *Role-Based Access* - Separate dashboards for Employers & Job Seekers
-- 📊 *Performance Optimized* - 25% faster API response times
-- 🎨 *Modern UI/UX* - Responsive design with smooth animations
-- 🐳 *Containerized* - Docker deployment for scalability
-- 📱 *Mobile Responsive* - Optimized for all device sizes
+**Distributed microservices architecture demonstrating cloud-native patterns and DevOps practices**
 
-### 📈 Technical Achievements
-- Designed 10+ RESTful endpoints with proper error handling
-- Implemented database indexing for faster query performance
-- Used Redis caching for frequently accessed data
-- Applied SOLID principles for maintainable code
--->
-</div>
+**Tech Stack:** `Node.js` `Express.js` `Sequelize` `PostgreSQL` `Docker` `Kubernetes`
 
-<div align="center">
+🔧 Modular services: Flight Search, Booking, Payment, Notification  
+☸️ Kubernetes orchestration with auto-scaling  
+🔄 API Gateway pattern for centralized routing  
+💾 Distributed transaction management  
+🛡️ Service isolation with circuit breakers
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://career-forge-portal.netlify.app/)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshi-amudala/careerForge)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Vamshi-amudala/airline-management-ms-k8s)
 
-</div>
+---
 
-</details>
+### 📸 Click-Connect - Photography Booking Platform
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" align="right">
 
-<br>
+**MERN stack booking platform built during a 24-hour hackathon challenge**
 
-<details>
-<summary><h3>✈ Airline Management System - Microservices</h3></summary>
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
 
-<br>
+📅 Real-time booking with live availability calendar  
+⭐ Rating and review system for photographers  
+🔔 Email notification system for bookings  
+👨‍💼 Admin approval workflow management  
+📱 Mobile-first responsive design
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="150">
-
-<div align="left">
-
-### 🎯 Project Overview
-Distributed microservices system for airline management with Kubernetes orchestration, demonstrating cloud-native architecture and DevOps best practices.
-
-### 🛠 Tech Stack
-yaml
-Backend:        Node.js | Express.js | Sequelize ORM
-Database:       PostgreSQL
-Architecture:   Microservices | API Gateway Pattern
-DevOps:         Docker | Kubernetes | Service Discovery
-
-<!--
-### ⚡ Key Features
-- 🔧 *Modular Services* - Flight Search, Booking, Payment, Notification
-- ☸ *Kubernetes Ready* - Auto-scaling and load balancing
-- 🔄 *API Gateway* - Centralized routing and authentication
-- 💾 *Data Consistency* - Distributed transaction management
-- 🛡 *Fault Tolerance* - Service isolation and circuit breakers
-- 📊 *Service Discovery* - Dynamic service registration
-
-### 📈 Architecture Highlights
-- Implemented event-driven communication between services
-- Used message queues for async operations
-- Applied database-per-service pattern
-- Configured health checks and monitoring
--->
-</div>
-
-<div align="center">
-
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshi-amudala/airline-management-ms-k8s)
-
-</div>
-
-</details>
-
-<br>
-
-<details>
-<summary><h3>📸 Click-Connect - Photography Booking Platform</h3></summary>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150">
-
-<div align="left">
-
-### 🎯 Project Overview
-MERN stack booking platform connecting photographers with clients, featuring real-time availability, ratings, and admin workflows. Built during a 24-hour hackathon challenge.
-
-### 🛠 Tech Stack
-yaml
-Frontend:    React | Tailwind CSS | React Router
-Backend:     Node.js | Express.js | JWT
-Database:    MongoDB | Mongoose
-Deployment:  Vercel
-
-<!--
-### ⚡ Key Features
-- 📅 *Real-Time Booking* - Live availability calendar
-- ⭐ *Rating System* - Reviews and photographer ratings
-- 🔔 *Notifications* - Email alerts for bookings
-- 👨‍💼 *Admin Panel* - Approval workflow management
-- 📱 *Responsive Design* - Mobile-first approach
-- 🎨 *Modern UI* - Smooth animations and transitions
-
-### 📈 Development Journey
-- Completed MVP in 24 hours during hackathon
-- Implemented full CRUD operations
-- Integrated image upload functionality
-- Deployed with CI/CD pipeline
--->
-</div>
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://click-connect-new.vercel.app/)
-
-</div>
-
-</details>
-
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://click-connect-new.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -277,125 +184,111 @@ Deployment:  Vercel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamshi-amudala&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi-amudala&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamshi-amudala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi-amudala&theme=tokyonight&hide_border=true" />
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshi-amudala&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff6e96&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshi-amudala&theme=tokyo-night&hide_border=true&area=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-amudala&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vamshi-amudala&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-amudala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vamshi-amudala&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Current Focus
-
-<div align="center">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> What I'm Up To
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔭 Building
+**🔭 Currently Building**
 - 🎯 Microservices with Spring Boot
-- ☁ Cloud-native applications
+- ☁️ Cloud-native applications
 - 🔄 CI/CD pipelines
 - 📊 Scalable REST APIs
 
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Learning
+**🌱 Learning & Exploring**
 - 🎓 Advanced System Design
-- ☸ Kubernetes & Helm
-- 🌐 AWS/Azure Cloud
-- 🔐 OAuth & Security
+- ☸️ Kubernetes & Helm Charts
+- 🌐 AWS/Azure Cloud Services
+- 🔐 OAuth 2.0 & Security
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👯 Open To
-- 💼 Backend opportunities
-- 🤝 Open source contributions
-- 🚀 Innovative projects
-- 📚 Knowledge sharing
+**👯 Open To**
+- 💼 Backend Engineering Roles
+- 🤝 Open Source Contributions
+- 🚀 Innovative Project Collaborations
+- 📚 Tech Community & Mentorship
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 Expertise In
+**💬 Ask Me About**
 - ☕ Java & Spring Boot
-- 🔌 REST API design
-- 🗄 Database optimization
+- 🔌 RESTful API Design
+- 🗄️ Database Optimization
 - 🐳 Docker & Kubernetes
 
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Certifications & Education
+
+<div align="center">
+
+| 🎓 Achievement | 🏢 Organization | 📅 Year |
+|:--------------|:---------------|:--------|
+| **Java Full Stack Development** | Capgemini's EduBridge Digital Academy | 2025 |
+| **Master of Computer Applications** | University (8.0 CGPA) | 2025 |
+| **Spring Boot & Microservices** | Self-Study & Hands-on Projects | 2024-25 |
+| **Docker & Kubernetes** | Practical Implementation | 2024 |
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Certifications & Learning
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40"> Let's Connect!
 
 <div align="center">
 
-| 🏆 Achievement | 🏢 Organization | 📅 Completion |
-|:--------------|:---------------|:-------------|
-| *Java Full Stack Development* | Capgemini's EduBridge Digital Academy | June 2025 |
-| *Spring Boot & Microservices* | Self-Study & Projects | 2024-2025 |
-| *Docker & Kubernetes* | Hands-on Implementation | 2024 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40"> Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="200" alt="Animated Coding">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="200">
 
 ### 💌 Always excited to discuss tech, collaborate on projects, or just chat!
 
 <br>
 
-<a href="https://www.linkedin.com/in/vamshi-amudala-b9296a229/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vamshiamudala126@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Vamshi-amudala">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-### 💭 Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-amudala-b9296a229/)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshiamudala126@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshi-amudala)
 
 <br>
 
-### 📊 Profile Stats
-
-<img src="https://komarev.com/ghpvc/?username=Vamshi-amudala&label=Profile%20Views&color=ff6e96&style=for-the-badge" alt="Profile Views" />
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br>
 
-### ⭐ Show Some Love
+![Profile Views](https://komarev.com/ghpvc/?username=Vamshi-amudala&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-*If you find my work interesting, drop a star on my repositories!*
+<br>
+
+### ⭐ If you find my work interesting, drop a star on my repositories!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+---
+
+<div align="center">
+  
+**💻 Made with ❤️ by Vamshi Amudala**
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+</div>
